@@ -20,11 +20,11 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 
 🔨 Local Development
 
-    Get this project running locally in a jiffy!
+Get this project running locally in a jiffy!
 
 🔍 Prerequisites
 
-    Make sure Node.js and npm are set up on your machine.
+Make sure Node.js and npm are set up on your machine.
 
 📥 Installation
 
