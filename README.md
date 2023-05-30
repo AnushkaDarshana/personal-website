@@ -28,19 +28,19 @@ Make sure Node.js and npm are set up on your machine.
 
 📥 Installation
 
-    1. Clone this:
+1. Clone this:
     
-        git clone https://github.com/username/personal-website.git1       
+        git clone https://github.com/username/personal-website.git       
 	
-    2. Walk into the directory:
+2. Walk into the directory:
     
         cd personal-website 
 	
-    3. Install the dependencies:
+3. Install the dependencies:
     
         npm install 
 	
-    4. Fire up the development server:
+4. Fire up the development server:
     
         npm start
         
