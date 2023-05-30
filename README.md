@@ -5,6 +5,7 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 🚀 Features
 
     👔 Work Experience: Chronological breakdown of my adventures in the professional world.
+    🎒 Education: A summary of my academic journey and qualifications.
     🛠 Skills: My technical arsenal and the soft skills I bring to the table.
     🎯 Projects: A sneak peek into the projects I've breathed life into.
     🎓 Certificates: The parchment that bears witness to my expertise.
