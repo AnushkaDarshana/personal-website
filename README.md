@@ -47,7 +47,6 @@ Make sure Node.js and npm are set up on your machine.
         
    You're all set! The application should be live at http://localhost:3000.
 
-Go on, explore the code! Drop me a line if you have any feedback or suggestions. Kindly respect the content copyright. 🙏
 
 
 
