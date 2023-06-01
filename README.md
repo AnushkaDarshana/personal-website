@@ -52,10 +52,7 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;	 	
     </div>
     
-    
-
 🔨 Local Development
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 Get this project running locally in a jiffy!
 
