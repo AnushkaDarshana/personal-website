@@ -25,7 +25,8 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
     ✉️ Contact Me: Let's chat! Contact me directly through the site.
     
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="Python" width="20" height="20"/> Github Stats
-    	[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 💻 Technical Skills
     <div>
