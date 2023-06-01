@@ -23,6 +23,9 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
     🏆 Achievements: The milestones I've reached in my career and education.
     🤠 About Me: Who am I? Step into this section to know more!
     ✉️ Contact Me: Let's chat! Contact me directly through the site.
+    
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="Python" width="20" height="20"/> Github Stats
+    	[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 💻 Technical Skills
     <div>
@@ -44,12 +47,7 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Progamming" alt="C Progamming" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp; 	
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-	
-    </div>
-    <div>
-    	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="Python" width="20" height="20"/> Github Stats
-    	[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;	
     </div>
 
 
