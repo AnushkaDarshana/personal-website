@@ -6,8 +6,9 @@
   <a href="https://www.linkedin.com/in/anushka-darshana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=AnushkaDarshana&style=flat-square&color=blue" alt=""/>
-	</div>
+	<img src="https://komarev.com/ghpvc/?username=AnushkaDarshana&style=flat-square&color=blue" alt=""/>
+</div>
+	
 👨‍💻 Personal Website
 
 Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments.
