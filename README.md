@@ -47,33 +47,6 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;	 	
     </div>
     
-🔨 Local Development
-
-Get this project running locally in a jiffy!
-
-🔍 Prerequisites
-
-Make sure Node.js and npm are set up on your machine.
-
-📥 Installation
-
-1. Clone this:
-    
-        git clone https://github.com/username/personal-website.git       
-	
-2. Walk into the directory:
-    
-        cd personal-website 
-	
-3. Install the dependencies:
-    
-        npm install 
-	
-4. Fire up the development server:
-    
-        npm start
-        
-   You're all set! The application should be live at http://localhost:3000.
 
 
 
