@@ -14,8 +14,6 @@
 
 Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments.
 
-🚀 Features
-
     👔 Work Experience: Chronological breakdown of my adventures in the professional world.
     🎒 Education: A summary of my academic journey and qualifications.
     🛠 Skills: My technical arsenal and the soft skills I bring to the table.
