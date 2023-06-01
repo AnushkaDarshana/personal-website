@@ -24,7 +24,7 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
     🤠 About Me: Who am I? Step into this section to know more!
     ✉️ Contact Me: Let's chat! Contact me directly through the site.
  
-🚀 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>Github Stats
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
