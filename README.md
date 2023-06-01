@@ -23,7 +23,11 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
     🏆 Achievements: The milestones I've reached in my career and education.
     🤠 About Me: Who am I? Step into this section to know more!
     ✉️ Contact Me: Let's chat! Contact me directly through the site.
-    
+ 
+🚀 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ 
 💻 Technical Skills
     <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,9 +51,7 @@ Welcome to the codebase of my personal space on the web! 🚀 It's built with �
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;	 	
     </div>
 
-🚀 Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
