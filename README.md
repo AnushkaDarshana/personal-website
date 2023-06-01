@@ -12,7 +12,7 @@
 	
 👨‍💻 Personal Website
 
-Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments. Checkout my,
+Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments. Checkout 
 
     👔 Work Experience: Chronological breakdown of my adventures in the professional world.
     🎒 Education: A summary of my academic journey and qualifications.
