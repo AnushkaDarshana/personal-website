@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 👨‍💻 Personal Website
 
 Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments.
