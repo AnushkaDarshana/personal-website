@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 👨‍💻 Personal Website
 
 Welcome to the codebase of my personal space on the web! 🚀 It's built with 💖 and React.js. Here, I showcase my tech journey and accomplishments.
